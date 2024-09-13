@@ -37,7 +37,7 @@ h1 {
 
 .card {
     background-color: black;
-    opacity: 85%;
+    opacity: 70%;
     
 }
 
@@ -55,8 +55,16 @@ img {
     max-width: 100%;
 }
 
+.linked-in {
+    max-width: 40px;
+
+}
 .my-moon {
     max-width: 500px;
+}
+
+.my-tarot {
+    max-width: 300px;
 }
 
 p {
