@@ -1,5 +1,7 @@
 # CapstoneProject-2
 <h1>Day 3</h1>
+
+
 Create About / Moon.html content
 <img src="https://github.com/user-attachments/assets/90cf39e4-27ca-48fe-b233-28753e9fc7f5">
 <br>
