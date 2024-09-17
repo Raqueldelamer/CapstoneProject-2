@@ -1,6 +1,11 @@
 # CapstoneProject-2
 <h1>Day 3</h1>
 
+
+Create About / Moon.html content
+<img src="https://github.com/user-attachments/assets/90cf39e4-27ca-48fe-b233-28753e9fc7f5">
+<br>
+<br>
 <h1>Day 2</h1>
 Create a new branch for your splash page
 git branch splash-page
@@ -28,3 +33,4 @@ Create a PR in GitHub
 <br>
 <h3>git branch readme -> git switch readme</h3>
 <img src = "https://github.com/user-attachments/assets/cb98b6ae-162b-468c-b212-020b52fea40a">
+
