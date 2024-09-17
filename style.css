@@ -38,6 +38,7 @@ h1 {
 .card {
     background-color: black;
     opacity: 88%;
+    align-content: center;
     
 }
 
