@@ -24,12 +24,14 @@ h1 {
     text-align: center;
     margin-top: 5px;
 }
+
 #image-container img {
     max-width: 100%;
     height: auto;
     margin: 5px;
     border: 5px solid black;
 }
+
 .container {
     max-width: 600px;
     margin: auto;
@@ -38,7 +40,6 @@ h1 {
 .card {
     background-color: black;
     opacity: 88%;
-    align-content: center;
     
 }
 
@@ -60,6 +61,7 @@ img {
     max-width: 40px;
 
 }
+
 .my-moon {
     max-width: 500px;
 }
@@ -82,4 +84,3 @@ footer {
     font-size: 10px;
     text-align: center;
 }
-
