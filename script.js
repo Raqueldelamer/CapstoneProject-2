@@ -27,4 +27,18 @@ async function fetchImage() {
     }
 }
 
+let emailInput = document.getElementById("email-input");
+let subscribeButton = document.getElementById("subscribe-button");
+
+function handleSubscribeData() {
+    let email = emailInput.value; 
+    emailInput.value = "";
+    console.log(email);
+
+    localStorage.setItem("email", email);
+
+    renderNavInfo();
+}
+
+subscribeButton.addEventListener("click", handleSubscribeData);
 fetchButton.addEventListener('click', fetchImage);
