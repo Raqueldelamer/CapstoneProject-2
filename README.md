@@ -9,7 +9,7 @@ For my capstone project, I developed a web application that utilizes two NASA AP
 - [x] HTML
 - [x] CSS / Bootstrap
 - [x] Javascript
-- [x] Main Index Page / API Interaction
+- [x] Main Index Page & Mars Page / API Interaction
 - [x] Splash Page
 - [x] About (Moon) Page
 - [x] Local Storage
