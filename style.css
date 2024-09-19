@@ -35,11 +35,13 @@ h1 {
 .container {
     max-width: 600px;
     margin: auto;
+    align-items: center;
 }
 
 .card {
     background-color: black;
     opacity: 88%;
+    align-items: center;
     
 }
 
@@ -52,7 +54,6 @@ div {
 }
 
 img {
-    align-content: center;
     padding: 5px;
     max-width: 100%;
 }
@@ -63,7 +64,8 @@ img {
 }
 
 .my-moon {
-    max-width: 500px;
+    max-width: 400px;
+    
 }
 
 .my-tarot {
